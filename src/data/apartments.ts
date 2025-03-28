@@ -13,7 +13,7 @@ export const apartments = [
     },
     bedrooms: 1,
     bathrooms: 1,
-    image: "./img/Borna/Title.jpg",
+    image: "/img/Borna/Title.jpg",
     description: "Apartment for max 3 persons located on the ground floor. In a single room of 30 m2 there is bedroom with two single beds and additional sofa bed, kitchen with dining room and living room, bathroom with shower and terrace of 20 m2 with sea view. Kitchen is completely equipped with dishes and refrigerator with 50 l freezer. Towels and bed linen available and changing after 7 days period.",
     amenities: [
       "III. Category",
@@ -48,7 +48,7 @@ export const apartments = [
     },
     bedrooms: 3,
     bathrooms: 2,
-    image: "./img/Luna/title.jpg",
+    image: "/img/Luna/Title.jpg",
     description: "Apartment for max 9 persons located on the first floor. Two double bed rooms, and 3rd room has 3 beds. Apartment has kitchen with dining room and living room, 2 bathrooms and balcony with sea view. Kitchen is completely equipped with dishes and refrigerator with 50 l freezer. Towels and bed linen available and changing after 7 days period.",
     amenities: [
       "III. Category",
@@ -85,7 +85,7 @@ export const apartments = [
     },
     bedrooms: 2,
     bathrooms: 1,
-    image: "./img/Max/Title.jpg",
+    image: "/img/Max/Title.jpg",
     description: "Apartment for max 6 persons located on the second floor. Apartment has two double bed rooms, kitchen with dining room and living room, bathroom and balcony with sea view. There is auxiliary sofa bed for 2 more persons. Kitchen is completely equipped with dishes and refrigerator with 50 l freezer. Towels and bed linen available and changing after 7 days period.",
     amenities: [
       "III. Category",
@@ -121,7 +121,7 @@ export const apartments = [
     },
     bedrooms: 1,
     bathrooms: 1,
-    image: "./img/Hana/Title.jpg",
+    image: "/img/Hana/Title.jpg",
     description: "Apartment for max 4 persons located on the 2nd floor. Around 50 m2 there is bedroom with two single beds and additional sofa bed for 2 persons, kitchen with dining room and living room, bathroom with shower and balcony of 12 m2 with sea view. Kitchen is completely equipped with dishes, and refrigerator with 50 l freezer.",
     amenities: [
       "III. Category",
