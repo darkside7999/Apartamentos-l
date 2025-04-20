@@ -26,9 +26,9 @@ export function Footer() {
                 <Mail className="w-5 h-5" />
                 <span>info@apartments-horvat.com</span>
               </a>
-              <a href="tel:+385912345678" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
+              <a href="tel:+38591 486 9104" className="flex items-center gap-2 hover:text-blue-400 transition-colors">
                 <Phone className="w-5 h-5" />
-                <span>+385 91 234 5678</span>
+                <span>+385 91 486 9104</span>
               </a>
               <div className="flex items-center gap-2">
                 <MapPin className="w-5 h-5" />

@@ -7,6 +7,7 @@ import { IntroSection } from './components/IntroSection';
 import { CommunitySection } from './components/CommunitySection';
 import { ContactSection } from './components/ContactSection';
 import { Footer } from './components/Footer';
+import { PhotoCarousel } from './components/PhotoCarousel';
 import { apartments } from './data/apartments';
 
 export default function App() {
@@ -35,6 +36,7 @@ export default function App() {
           </div>
         </div>
 
+        <PhotoCarousel />
         <ServicesSection />
         <CommunitySection />
         <ContactSection />
