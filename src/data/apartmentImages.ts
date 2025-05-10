@@ -37,14 +37,14 @@ export const apartmentImages = {
   ],
   'Apartment Hana': [
     "/img/Hana/1.jpg",
-    "/img/Hana/2.jpg",
+    "/img/Hana/2.jpeg",
     "/img/Hana/3.jpg",
     "/img/Hana/4.jpg",
     "/img/Hana/5.jpg",
     "/img/Hana/6.jpg",
     "/img/Hana/7.jpg",
-    "/img/Hana/8.jpg",
-    "/img/Hana/9.jpg",
+    "/img/Hana/8.jpeg",
+    "/img/Hana/9.jpeg",
     "/img/Hana/10.jpg",
   ]
 };

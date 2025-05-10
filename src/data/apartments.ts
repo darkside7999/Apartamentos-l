@@ -31,7 +31,7 @@ export const apartments = [
       checkIn: "14:00-22:00",
       pets: "Allowed on request (extra charge)",
       cleaning: "Laundry on request (extra charge)",
-      smoking: true
+      smoking: false
     }
   },
   {
@@ -68,7 +68,7 @@ export const apartments = [
       checkIn: "14:00-22:00",
       pets: "Allowed on request (extra charge)",
       cleaning: "Laundry on request (extra charge)",
-      smoking: true
+      smoking: false
     }
   },
   {
@@ -104,7 +104,7 @@ export const apartments = [
       checkIn: "14:00-22:00",
       pets: "Allowed on request (extra charge)",
       cleaning: "Laundry on request (extra charge)",
-      smoking: true
+      smoking: false
     }
   },
   {
@@ -140,7 +140,7 @@ export const apartments = [
       checkIn: "14:00-22:00",
       pets: "Allowed on request (extra charge)",
       cleaning: "Laundry on request (extra charge)",
-      smoking: true
+      smoking: false 
     }
   }
 ];
